@@ -1,4 +1,12 @@
-# Django Semantic Search Project
+     _           _                   _                                        _   
+    | |         (_)                 (_)                                      | |  
+  __| | ___  ___ _  __ _ _ __ ______ _ _ __  ___ _ __   ___ ______ __ _ _ __ | |_ 
+ / _` |/ _ \/ __| |/ _` | '_ \______| | '_ \/ __| '_ \ / _ \______/ _` | '_ \| __|
+| (_| |  __/\__ \ | (_| | | | |     | | | | \__ \ |_) | (_) |    | (_| | |_) | |_ 
+ \__,_|\___||___/_|\__, |_| |_|     |_|_| |_|___/ .__/ \___/      \__, | .__/ \__|
+                    __/ |                       | |                __/ | |        
+                   |___/                        |_|               |___/|_|        
+                   
 
 This Django project implements a semantic search system that allows users to upload design screenshots and retrieve related design elements based on keywords. The system leverages OpenAI for generating embeddings and Pinecone for vector-based search. Additionally, the project supports automatic media file handling and environment configuration.
 
